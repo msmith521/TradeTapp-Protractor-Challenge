@@ -1,0 +1,7 @@
+{
+  "name": "ProtractorTest",
+  "version": "0.0.1",
+  "dependencies": {
+    "protractor": "^5.3.0"
+  }
+}
